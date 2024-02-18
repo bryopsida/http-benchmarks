@@ -1,0 +1,31 @@
+services:
+  server:
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 256M
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    networks:
+      - test
+    expose:
+      - 8080
+  test:
+    depends_on:
+      - server
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    networks:
+      - test
+    volumes:
+      - ./results/:/results
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 256M
+networks:
+  test:
