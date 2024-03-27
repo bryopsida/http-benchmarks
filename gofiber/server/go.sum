@@ -8,6 +8,8 @@ github.com/gofiber/fiber/v2 v2.52.2 h1:b0rYH6b06Df+4NyrbdptQL8ifuxw/Tf2DgfkZkDax
 github.com/gofiber/fiber/v2 v2.52.2/go.mod h1:KEOE+cXMhXG0zHc9d8+E38hoX+ZN7bhOtgeF2oT6jrQ=
 github.com/gofiber/fiber/v2 v2.52.3 h1:bgAZwPv0aHIfRwIUdkWhg6U8D3MEYnoJjT+HfW/dDTo=
 github.com/gofiber/fiber/v2 v2.52.3/go.mod h1:KEOE+cXMhXG0zHc9d8+E38hoX+ZN7bhOtgeF2oT6jrQ=
+github.com/gofiber/fiber/v2 v2.52.4 h1:P+T+4iK7VaqUsq2PALYEfBBo6bJZ4q3FP8cZ84EggTM=
+github.com/gofiber/fiber/v2 v2.52.4/go.mod h1:KEOE+cXMhXG0zHc9d8+E38hoX+ZN7bhOtgeF2oT6jrQ=
 github.com/gofiber/fiber/v3 v3.0.0-20240213140423-ae8f09ac3b90 h1:BBx0StxQlQgqpFBS40W82nWJAclv/ZuZpTydxGQN6Ck=
 github.com/gofiber/fiber/v3 v3.0.0-20240213140423-ae8f09ac3b90/go.mod h1:M5+ErQSUndBsaHN3zyHLWgmvscqtJzhJVxMm6G8sr9g=
 github.com/gofiber/utils/v2 v2.0.0-beta.3 h1:pfOhUDDVjBJpkWv6C5jaDyYLvpui7zQ97zpyFFsUOKw=
