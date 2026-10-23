@@ -2,7 +2,7 @@ module github.com/bryopsida/http-benchmark
 
 go 1.26.0
 
-require github.com/gofiber/fiber/v2 v2.52.15
+require github.com/gofiber/fiber/v2 v2.52.16
 
 require (
 	github.com/mattn/go-runewidth v0.0.16 // indirect
