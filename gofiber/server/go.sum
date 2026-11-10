@@ -48,6 +48,7 @@ github.com/gofiber/fiber/v3 v3.4.0/go.mod h1:nAhJfdxUIJJph2tPWPmqWf8QDIN2iiqQiQf
 github.com/gofiber/fiber/v3 v3.5.0/go.mod h1:GOVDTW+gjJvfe0iJyVujbQ1Lnx+JUjFySJRI/9/xX/w=
 github.com/gofiber/fiber/v3 v3.6.0/go.mod h1:ce/ZWPbiMom+nAEkPv4+NPBEx8b9+MH3g2VV6nvEpgo=
 github.com/gofiber/fiber/v3 v3.6.1/go.mod h1:+nxjBal3gw0EPf3gqK5EmtxaxTL01+zbSTagFletlDI=
+github.com/gofiber/fiber/v3 v3.7.0/go.mod h1:7dlbpUZ789TJg4q/VfdS1UWDtB6Fl/Smk6ZYZusMpAQ=
 github.com/gofiber/utils/v2 v2.0.0-beta.3 h1:pfOhUDDVjBJpkWv6C5jaDyYLvpui7zQ97zpyFFsUOKw=
 github.com/gofiber/utils/v2 v2.0.0-beta.3/go.mod h1:jsl17+MsKfwJjM3ONCE9Rzji/j8XNbwjhUVTjzgfDCo=
 github.com/gofiber/utils/v2 v2.0.0/go.mod h1:xF9v89FfmbrYqI/bQUGN7gR8ZtXot2jxnZvmAUtiavE=
@@ -58,6 +59,7 @@ github.com/gofiber/utils/v2 v2.1.1/go.mod h1:DdOgEVwQTi8cou/AKWPqhXOR4fHGRVhA/rE
 github.com/gofiber/utils/v2 v2.4.1/go.mod h1:I+RTsgMUdzFuifVc3LOEkfh32wQW9BfRl7l5RYjamW4=
 github.com/gofiber/utils/v2 v2.6.1/go.mod h1:tc9KqdRAQZRD/u0mN2d1ZHROGheSZv+0FcC9cg5OEdw=
 github.com/gofiber/utils/v2 v2.6.2/go.mod h1:8ey6lqPABeSEhqoxsh/5dMyUOMHB/rkPagXlKWvL67o=
+github.com/gofiber/utils/v2 v2.6.4/go.mod h1:SpYvWEQlYmZzzpuSfQX0gUiPSoxpOKldiEmVDzdl8Ds=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/klauspost/compress v1.17.6 h1:60eq2E/jlfwQXtvZEeBUYADs+BwKBWURIY+Gj2eRGjI=
@@ -105,6 +107,8 @@ github.com/molecule-man/go-brrr v1.2.0 h1:dOJU45BC3Gc2WXoxAW0rgCAgVuu2gruAOGncfi
 github.com/molecule-man/go-brrr v1.2.0/go.mod h1:7ybW6/7gA3oKY45jOfVNjSJDtrr6ea4tzbsTkjmQDC4=
 github.com/molecule-man/go-brrr v1.3.0 h1:KEGPkUk9PYFw5+Sv/evCOSU5OmMDXCGFqQ9YjRB7GeU=
 github.com/molecule-man/go-brrr v1.3.0/go.mod h1:7ybW6/7gA3oKY45jOfVNjSJDtrr6ea4tzbsTkjmQDC4=
+github.com/molecule-man/go-brrr v1.3.1 h1:EwaJUzRIlp/dFmIpzq4J17CA5Zi5OHo2vOGmu09hF1w=
+github.com/molecule-man/go-brrr v1.3.1/go.mod h1:7ybW6/7gA3oKY45jOfVNjSJDtrr6ea4tzbsTkjmQDC4=
 github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
@@ -123,6 +127,8 @@ github.com/valyala/fasthttp v1.73.0 h1:ocTOORnBWtJ+P8t/6wAjdkchMzdfHmWx2VD/DPbgZ
 github.com/valyala/fasthttp v1.73.0/go.mod h1:EtXQDHaR+5P18p8wqDRFpUhxr108Ga9mXvVJXHRrN2k=
 github.com/valyala/fasthttp v1.75.0 h1:W3xrvNJHG60j2ZCjxpP8kkB+oPG8kh9/g1n4+3xUwNA=
 github.com/valyala/fasthttp v1.75.0/go.mod h1:JiVkPRZU124PuPsreV/s9dZRgG2lRK7wNEikdQ0Rk4s=
+github.com/valyala/fasthttp v1.78.0 h1:tKfLdx7cD8HZOTP1wc2OpbQMbgO1HP12J0y/XMdyW6Q=
+github.com/valyala/fasthttp v1.78.0/go.mod h1:8NXUY/ZXyjqEWN5cbfIdAAv+ES+5yfcl2EGNo872KzQ=
 github.com/valyala/tcplisten v1.0.0 h1:rBHj/Xf+E1tRGZyWIWwJDiRY0zc1Js+CV5DqwacVSA8=
 github.com/valyala/tcplisten v1.0.0/go.mod h1:T0xQ8SeCZGxckz9qRXTfG43PvQ/mcWh7FwZEA7Ioqkc=
 golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
